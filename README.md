@@ -1,5 +1,5 @@
 # Equivalence partitioning of the N by N torus for the Game of Life
-A partitioning of the states on a small N by N board into equivalence classes based on group action of the $D_4$ x Translations Group ($C_n^2$).
+A partitioning of the states on a small $n$ by $n$ board into equivalence classes based on group action of the $D_4$ x Translations Group ($C_n^2$).
 
 There are $8 n^2$ actions of a group that can equate different states (for $n > 2$). 
 If there is an element that commutes with the evolution operator of the system it is called a symmetry and it is reduces the complexity 
